@@ -1,0 +1,11 @@
+A logical design
+
+-A high level desing without a great level of detail
+
+-Focuses on satisfying the design factors (requiremnts Risks, assumptions, constrains)
+
+-Doesn't explain how it satisfies the design factors
+
+-Doesn't includes specific solutions or products
+
+Can be graphical, textual, or both. 
